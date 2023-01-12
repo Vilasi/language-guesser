@@ -4,5 +4,7 @@ A Node.js script that takes a string argument passed in the CLI and attempts to 
 
 #### How To Use:
 
+Run `npm install` to get dependencies.
+
 In the CLI, while in the package's root directory, Run the command: `node index.js 'Language Sample'`
 Where 'Language Sample' is a string contained within quotation marks.
