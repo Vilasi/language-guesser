@@ -4,3 +4,8 @@ A Node.js script that takes a string argument passed in the CLI and attempts to 
 
 Packages to use: 1) colors - colorize 2) franc - Take language sample and return 3 letter str language code 3) langs - Take 3 letter str language code and return plain english language (IE, langs.where("3", "kor");
 // {"name":"Korean", "local":"한국어", "1":"ko", "2":"kor", "2T":"kor", "2B":"kor", "3":"kor"})
+
+#### To Use:
+
+In the CLI, Run `node index.js 'Language Sample'`
+Ensure that the language sample is a 'string' contained within quotation marks.
