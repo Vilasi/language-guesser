@@ -1,0 +1,19 @@
+{
+  "name": "language-guesser",
+  "version": "1.0.0",
+  "description": "A CLI script for guessing the language passed as an argument - said argument being passed immediately proceeding `node [language-guesser.js]`",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vilasi/language-guesser.git"
+  },
+  "author": "Joe Vilasi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Vilasi/language-guesser/issues"
+  },
+  "homepage": "https://github.com/Vilasi/language-guesser#readme"
+}
